@@ -1,0 +1,9 @@
+*
+!.gitignore
+!README.md
+!contracts/
+!interfaces/
+!lib/
+!contracts/**
+!interfaces/**
+!lib/**
